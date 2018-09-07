@@ -1,4 +1,4 @@
-## Installation
+## Installation (Tolong di baca notenya)
 ####1. Clone project atau Download ZIP file
 
 ```sh
