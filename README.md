@@ -24,7 +24,7 @@ $ npm start
 
 NOTE:
 - Untuk API ini : "https://dog.ceo/api/breed/boxer/images"  saya ganti karena error "Request header field content-type is not allowed by Access-Control-Allow-Headers in preflight response" API nya tidak di allow
-- API yang saya gunakan "http://operationreportdev.kar-ads.com/api/breed/boxer/images", API ini saya buat mengunakan Node JS Respone atau balikan dari API ini sama persis seperti "https://dog.ceo/api/breed/boxer/images"
+- API yang saya gunakan "http://operationreportdev.kar-ads.com/api/breed/boxer/images", API ini saya buat mengunakan Node JS respone atau balikan dari API ini sama persis seperti "https://dog.ceo/api/breed/boxer/images"
 - ```sh 
   const data = [
 			{
